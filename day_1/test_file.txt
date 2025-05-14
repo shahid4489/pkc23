@@ -1,1 +1,3 @@
-I have created this file to do experiments with GIT and GITHUB
+I have created this file to do experiments with GIT and GITHUB. 
+
+I created this file in my local folder. This local folder was already opened in the Fork so the file itself appeared in Fork. I then Staged the file and did the Commit. Master started appearing in the left side panel of Fork under Branches. I Right Clicked the Master and clicked Push Master to Origin. The file has started appearing in the GITHUB online portal. Now I am writing these lines by clicking this file from the online GITHUB and clicking Edit this file. Now we need to see how these changes show.
